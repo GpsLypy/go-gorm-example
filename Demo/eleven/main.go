@@ -34,5 +34,5 @@ func main() {
 	fmt.Println(222)
 	//TestUserCreate()
 	//CreatedTest()
-	Polymorphic()
+	Polymorphic2()
 }
